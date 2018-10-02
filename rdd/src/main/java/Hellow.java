@@ -16,6 +16,11 @@ public class Hellow {
             System.out.println("一连串操作.....");
         }
 
+//        int i = 0;
+        for (int j = 0; j < 3; j++) {
+            System.out.println("一连串操作.....");
+        }
+
 
     }
 
