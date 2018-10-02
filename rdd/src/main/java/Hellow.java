@@ -10,6 +10,13 @@ public class Hellow {
 
         System.out.println("Hellow.main"+444);
         System.out.println("rdd2_dev-----");
+
+        int i = 0;
+        for (int j = 0; j < 3; j++) {
+            System.out.println("一连串操作.....");
+        }
+
+
     }
 
 }
