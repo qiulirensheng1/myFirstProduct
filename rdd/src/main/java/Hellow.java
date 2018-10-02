@@ -10,6 +10,14 @@ public class Hellow {
 
         System.out.println("Hellow.main"+444);
         System.out.println("rdd2_dev-----");
+
+
+        int j = 10;
+
+        for (int i = 0; i < 3; i++) {
+            System.out.println("rdd进行的一连串操作,但是没有更新");
+        }
+
     }
 
 }
