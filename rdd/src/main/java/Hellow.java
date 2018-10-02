@@ -23,6 +23,18 @@ public class Hellow {
             System.out.println("rdd又进行的一连串操作,但是没有更新");
         }
 
+
+        int i = 0;
+        for (int j = 0; j < 3; j++) {
+            System.out.println("一连串操作.....");
+        }
+
+//        int i = 0;
+        for (int j = 0; j < 3; j++) {
+            System.out.println("一连串操作.....");
+        }
+
+
     }
 
 }
