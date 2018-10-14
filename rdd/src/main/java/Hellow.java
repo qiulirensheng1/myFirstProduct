@@ -11,11 +11,6 @@ public class Hellow {
         System.out.println("Hellow.main"+444);
         System.out.println("rdd2_dev-----");
 
-
-
-
-
-
     }
 
 }
